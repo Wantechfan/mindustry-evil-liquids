@@ -14,3 +14,4 @@ flammability: 0
 incinerable: false
 boilPoint: 0.55
 spreadTarget: neoplasm
+capPuddles: false
