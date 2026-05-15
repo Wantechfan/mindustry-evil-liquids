@@ -3,9 +3,9 @@ name: Evil Cryofluid
 description: Drinks cryofluid
 temperature: 0.6
 coolant: false
-color: b8c971
-colorFrom: c9da71
-colorTo: 6b724d
+color: 913213
+colorFrom: 9c4124
+colorTo: 78240a
 canStayOn: [cryofluid]
 explosiveness: 0
 flammability: 0.1
