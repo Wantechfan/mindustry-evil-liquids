@@ -1,0 +1,14 @@
+type: CellLiquid
+name: Evil Oil
+description: Drinks oil
+viscosity: 0.75
+coolant: false
+color: 913213
+colorFrom: 9c4124
+colorTo: 78240a
+canStayOn: [oil]
+explosiveness: 1.2
+flammability: 1.2
+incinerable: false
+boilPoint: 0.65
+spreadTarget: oil
