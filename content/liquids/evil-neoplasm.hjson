@@ -5,7 +5,7 @@ heatCapacity: 0.4
 temperature: 0.54
 coolant: false
 viscosity: 0.85
-capPuddles = false
+capPuddles: false
 color: 3cc1d4
 colorFrom: 177fc0
 colorTo: 128c79
