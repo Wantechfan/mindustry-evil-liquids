@@ -1,0 +1,17 @@
+type: CellLiquid
+name: Evil Neoplasm
+description: Drinks Neoplasm.
+heatCapacity: 0.4
+temperature: 0.54
+coolant: false
+viscosity: 0.85
+capPuddles = false
+color: 913213
+colorFrom: 9c4124
+colorTo: 78240a
+canStayOn: [neoplasm]
+explosiveness: 0
+flammability: 0
+incinerable: false
+boilPoint: 0.55
+spreadTarget: neoplasm
