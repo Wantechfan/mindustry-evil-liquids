@@ -1,4 +1,4 @@
-# mindustry-evil-liquids
+# Evil Liquids
 [![Badge Discord]][Discord]
 
 This mod adds evil version of all liquids
