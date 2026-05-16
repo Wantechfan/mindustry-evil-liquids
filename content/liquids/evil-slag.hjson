@@ -4,9 +4,9 @@ description: Drinks slag
 temperature: 1
 coolant: false
 viscosity: 0.7
-color: 6ecedc
-colorFrom: 4daab8
-colorTo: 98e2ed
+color: 005e99
+colorFrom: 319de0
+colorTo: 013f66
 canStayOn: [slag]
 incinerable: false
 spreadTarget: slag
