@@ -1,0 +1,11 @@
+type: CellLiquid
+name: Evil Ozone
+description: Drinks Ozone
+flammability: 1
+explosiveness: 1
+coolant: false
+color: 81ddfc
+colorFrom: 4ab5d9
+colorTo: b6e3f2
+incinerable: false
+spreadTarget: ozone
