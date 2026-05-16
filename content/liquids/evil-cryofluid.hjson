@@ -1,14 +1,14 @@
 type: CellLiquid
 name: Evil Cryofluid
 description: Drinks cryofluid
+heatCapacity: 0.9
 temperature: 0.25
+effect: freezing
+boilPoint: 0.55
 coolant: false
 color: 913213
 colorFrom: 9c4124
 colorTo: 78240a
 canStayOn: [cryofluid]
-explosiveness: 0
-flammability: 0
 incinerable: false
-boilPoint: 0.55
 spreadTarget: cryofluid
