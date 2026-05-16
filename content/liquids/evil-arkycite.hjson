@@ -4,9 +4,9 @@ description: Drinks arkycite
 flammability: 0.4
 viscosity: 0.7
 coolant: false
-color: 913213
-colorFrom: 9c4124
-colorTo: 78240a
+color: 7b56b4
+colorFrom: a284d1
+colorTo: 5c3894
 canStayOn: [arkycite, water, oil, cryofluid]
 incinerable: false
 spreadTarget: arkycite
