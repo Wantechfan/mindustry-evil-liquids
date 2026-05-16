@@ -3,15 +3,13 @@ name: Evil Neoplasm
 description: Drinks Neoplasm.
 heatCapacity: 0.4
 temperature: 0.54
-coolant: false
 viscosity: 0.85
+flammability: 0
+capPuddles: false
+coolant: false
 color: 3cc1d4
 colorFrom: 177fc0
 colorTo: 128c79
 canStayOn: [neoplasm]
-explosiveness: 0
-flammability: 0
 incinerable: false
-boilPoint: 0.55
-spreadTarget: neoplasm
-capPuddles: false
+sreadTarget: neoplasm
