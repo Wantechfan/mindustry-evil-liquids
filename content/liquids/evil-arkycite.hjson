@@ -1,6 +1,4 @@
 type: CellLiquid
-name: Evil Arkycite
-description: Drinks arkycite
 flammability: 0.4
 viscosity: 0.7
 coolant: false
