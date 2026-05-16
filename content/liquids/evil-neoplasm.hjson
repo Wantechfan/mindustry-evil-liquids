@@ -10,6 +10,6 @@ coolant: false
 color: 3cc1d4
 colorFrom: 177fc0
 colorTo: 128c79
-canStayOn: [neoplasm]
+canStayOn: [water, oil, cryofluid]
 incinerable: false
 sreadTarget: neoplasm
