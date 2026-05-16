@@ -6,7 +6,7 @@ coolant: false
 color: cecece
 colorFrom: e3e3e3
 colorTo: bbbbbb
-canStayOn: [oil]
+canStayOn: [oil, water]
 explosiveness: 1.2
 flammability: 1.2
 incinerable: false
