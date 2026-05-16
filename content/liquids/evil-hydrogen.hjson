@@ -1,0 +1,8 @@
+type: CellLiquid
+flammability: 1
+coolant: false
+color: 615408
+colorFrom: c4a712
+colorTo: 6b5b05
+incinerable: false
+spreadTarget: hydrogen
