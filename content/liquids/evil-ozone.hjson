@@ -4,8 +4,8 @@ description: Drinks Ozone
 flammability: 1
 explosiveness: 1
 coolant: false
-color: 81ddfc
-colorFrom: 4ab5d9
-colorTo: b6e3f2
+color: 037e22
+colorFrom: 26c94f
+colorTo: 06691f
 incinerable: false
 spreadTarget: ozone
