@@ -1,0 +1,13 @@
+type: CellLiquid
+name: Evil Slag
+description: Drinks slag
+temperature: 1
+coolant: false
+viscosity: 0.7
+color: 913213
+colorFrom: 9c4124
+colorTo: 78240a
+canStayOn: [slag]
+incinerable: false
+spreadTarget: slag
+effect: melting
