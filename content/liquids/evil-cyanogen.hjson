@@ -1,0 +1,8 @@
+type: CellLiquid
+flammability: 1
+coolant: false
+color: 761749
+colorFrom: 420d29
+colorTo: bd176e
+incinerable: false
+spreadTarget: cyanogen
