@@ -1,0 +1,7 @@
+type: CellLiquid
+coolant: false
+color: 101c00
+colorFrom: 264001
+colorTo: 070d00
+incinerable: false
+spreadTarget: nitrogen
