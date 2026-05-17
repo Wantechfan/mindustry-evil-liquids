@@ -1,6 +1,4 @@
 type: CellLiquid
-name: Evil Oil
-description: Drinks oil
 viscosity: 0.75
 coolant: false
 color: cecece
