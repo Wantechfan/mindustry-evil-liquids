@@ -1,6 +1,4 @@
 type: CellLiquid
-name: Evil Slag
-description: Drinks slag
 temperature: 1
 coolant: false
 viscosity: 0.7
