@@ -4,6 +4,14 @@
 
 This mod adds evil (neoplasmed) version of all liquids.
 
+# Descriptions
+
+This mod adds 9 liquids to the game that's only accessible in sandbox mode. They all are "evil" version of their normal counterparts. For example, Evil Oil will attack blocks that contains oil. The eexception is Water, which already has their own evil version, Neoplasm, but Neoplasm got it's own evil version as an exchange.
+
+# Lore Behind This Mod
+
+One day, I was playing sandbox for no reason and I infect their base with Neoplasm. But an idea struck my head, "What if all liquids has it's own neoplasm version?". So I learn hjson modding in under than 1 hour by reading some Asthosus files and I found Arcanoma, the perfect test rabbit. I copied it's file and modified it for another liquid. From there, borns the early version of Evil Cryofluid. I modified it again to have the same stats as normal Cryofluid and added other Neoplasmed liquids. From there, rose Evil Liquids.
+
 ![icon](https://media.discordapp.net/attachments/1505101046983163997/1505528432237482064/Screenshot_20260517_181117_Mindustry.png?ex=6a0af41d&is=6a09a29d&hm=20ec87245557374220c0b8ec4a48260543e96385ea89c6f1248e2ff1b3893c66&=&format=webp&quality=lossless&width=300&height=257)
 
 ![icon](https://media.discordapp.net/attachments/1428283291357810800/1505519996732706937/Screenshot_20260517_173816_Mindustry.png?ex=6a0aec42&is=6a099ac2&hm=531ac43ac963d11fcbbfbc032294878571bcef2673fde0c3a0c6d90bf58f7824&=&format=webp&quality=lossless&width=300&height=428)
