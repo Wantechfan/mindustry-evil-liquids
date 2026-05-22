@@ -10,4 +10,4 @@ colorFrom: 177fc0
 colorTo: 128c79
 canStayOn: [water, oil, cryofluid]
 incinerable: false
-sreadTarget: neoplasm
+spreadTarget: neoplasm
